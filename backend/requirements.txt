@@ -1,0 +1,7 @@
+fastapi==0.115.6
+uvicorn==0.34.0
+python-multipart==0.0.20
+Pillow==11.3.0
+numpy==1.26.4; python_version < "3.13"
+numpy>=2.1,<2.4; python_version >= "3.13"
+rembg[cpu]==2.0.67
