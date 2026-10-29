@@ -19,3 +19,5 @@ backend/work/
 backend/models/
 backend/pi.env
 .pi-tunnel.log
+.vercel/
+.vercel-login.log
